@@ -1,0 +1,23 @@
+{
+  "name": "b610-lerning-platform-server-side-masniloy",
+  "version": "1.0.0",
+  "description": "\"# b610-lerning-platform-server-side-masniloy\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-masniloy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-masniloy/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course1/b610-lerning-platform-server-side-masniloy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
