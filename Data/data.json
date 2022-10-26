@@ -27,18 +27,18 @@
         {
             "id": 4,
             "name": "C++",
-            "image": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-            "price": "120$",
-            "class": 50,
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/70/d28a28b3b24adc82008ce9acf33155/Specialization-Logo.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+            "price": "80$",
+            "class": 100,
             "description": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games."
         },
         {
             "id": 5,
             "name": "C",
-            "image": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-            "price": "120$",
-            "class": 50,
-            "description": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments."
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/fe/163a0249a146fdab429b3908e28422/C4E-logo-spec.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+            "price": "50$",
+            "class": 120,
+            "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields."
         }
     ]
 }
