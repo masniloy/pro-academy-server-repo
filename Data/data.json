@@ -2,7 +2,7 @@
     "data": [
         {
             "id": 1,
-            "name": "Python",
+            "name": "Basic Concepts Of Python",
             "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/08/33f720502a11e59e72391aa537f5c9/pythonlearn_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
             "price": "150$",
             "class": 60,
@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "name": "Java",
+            "name": "Introduction To Java",
             "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
             "price": "120$",
             "class": 50,
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "name": "JavaScript",
+            "name": "Introduction To JavaScript",
             "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/78/bf51e094c211e78308116c229500da/WA4E_thumbnail_JS_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
             "price": "180$",
             "class": 99,
@@ -34,11 +34,19 @@
         },
         {
             "id": 5,
-            "name": "C",
+            "name": "Object-Oriented In C",
             "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/fe/163a0249a146fdab429b3908e28422/C4E-logo-spec.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
             "price": "50$",
             "class": 120,
             "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields."
+        },
+        {
+            "id": 6,
+            "name": "C#",
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ab/5b2d6ac00546dc991e7672519c553c/shaar-lkwrs-19.jpg?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+            "price": "80$",
+            "class": 70,
+            "description": "Object oriented programming is a widely utilized programming paradigm and one of the main technical skills required to land a software engineering position in any IT company. This course equips you with the required technical skills to design and develop high-quality object-oriented software systems using the C# programming language. The course focuses on the C# programming language since it is one of the most used programming languages in the industry. With the C# programing language, you can create a wide range of software systems including Console applications, Windows desktop applications, mobile apps, TV apps, web applications, game programming, etc."
         }
     ]
 }
