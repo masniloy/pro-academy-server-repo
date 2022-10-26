@@ -19,20 +19,26 @@
         {
             "id": 3,
             "name": "JavaScript",
-            "image": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-            "description": 8
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/78/bf51e094c211e78308116c229500da/WA4E_thumbnail_JS_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&q=25&fit=fill",
+            "price": "180$",
+            "class": 99,
+            "description": "In this course, we'll look at the JavaScript language, and how it supports the Object-Oriented pattern, with a focus on the unique aspect of how JavaScript approaches OO. We'll explore a brief introduction to the jQuery library, which is widely used to do in-browser manipulation of the Document Object Model (DOM) and event handling. You'll also learn more about JavaScript Object Notation (JSON), which is commonly used as a syntax to exchange data between code running on the server and code running in the browser ."
         },
         {
             "id": 4,
             "name": "C++",
             "image": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
-            "description": 8
+            "price": "120$",
+            "class": 50,
+            "description": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games."
         },
         {
             "id": 5,
             "name": "C",
             "image": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
-            "description": 11
+            "price": "120$",
+            "class": 50,
+            "description": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments."
         }
     ]
 }
