@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Python",
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/08/33f720502a11e59e72391aa537f5c9/pythonlearn_thumbnail_1x1.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+            "price": "150$",
+            "class": 60,
+            "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3."
+        },
+        {
+            "id": 2,
+            "name": "Java",
+            "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1&w=330&h=330&fit=fill&q=25",
+            "price": "120$",
+            "class": 50,
+            "description": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments."
+        },
+        {
+            "id": 3,
+            "name": "JavaScript",
+            "image": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+            "description": 8
+        },
+        {
+            "id": 4,
+            "name": "C++",
+            "image": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+            "description": 8
+        },
+        {
+            "id": 5,
+            "name": "C",
+            "image": "https://live.staticflickr.com/65535/52412639027_5692c15b3f_o.png",
+            "description": 11
+        }
+    ]
+}
