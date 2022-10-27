@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Basic Concepts Of Python",
+        "image": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "price": "150$",
+        "tclass": "60",
+        "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. Once a student completes this course, they will be ready to take more advanced programming courses. This course covers Python 3."
+    },
+    {
+        "id": "2",
+        "name": "Introduction To Java",
+        "image": "https://contentstatic.techgig.com/photo/90078629.cms",
+        "price": "120$",
+        "tclass": 50,
+        "description": "This Course is the first of a series of courses that make up the Core Java Specialization.  The Core Java Specialization, in turn, is part of a series of programming specializations, derived from LearnQuest's private Java Bootcamps, designed to provide the skill set necessary to be hired as an IT developer using Java in many corporate environments."
+    },
+    {
+        "id": "3",
+        "name": "Introduction To JavaScript",
+        "image": "https://www.thewindowsclub.com/wp-content/uploads/2020/09/JavaScript.jpg?ezimgfmt=ngcb192/notWebP",
+        "price": "180$",
+        "tclass": 99,
+        "description": "In this course, we'll look at the JavaScript language, and how it supports the Object-Oriented pattern, with a focus on the unique aspect of how JavaScript approaches OO. We'll explore a brief introduction to the jQuery library, which is widely used to do in-browser manipulation of the Document Object Model (DOM) and event handling. You'll also learn more about JavaScript Object Notation (JSON), which is commonly used as a syntax to exchange data between code running on the server and code running in the browser ."
+    },
+    {
+        "id": "4",
+        "name": "Basic Concepts Of C++",
+        "image": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648",
+        "price": "80$",
+        "tclass": 100,
+        "description": "This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C and C++. Through the four courses — two in C, and two in C++ — you will cover the basics of programming in C and move on to the more advanced C++ semantics and syntax, which will prepare you to apply these skills to a number of higher-level problems using AI algorithms and Monte Carlo evaluation in complex games."
+    },
+    {
+        "id": "5",
+        "name": "Object-Oriented In C",
+        "image": "https://impreza.host/wp-content/uploads/2017/07/c-programming-language.jpg",
+        "price": "50$",
+        "tclass": 120,
+        "description": "This specialization develops strong programming fundamentals for learners who want to solve complex problems by writing computer programs. Through four courses, you will learn to develop algorithms in a systematic way and read and write the C code to implement them. This will prepare you to pursue a career in software development or other computational fields."
+    },
+    {
+        "id": "6",
+        "name": "Basic Concepts Of C#",
+        "image": "https://www.oflox.com/blog/wp-content/uploads/2021/12/What-Can-You-Make-With-C-in-Web-Application.jpg",
+        "price": "80$",
+        "tclass": 70,
+        "description": "Object oriented programming is a widely utilized programming paradigm and one of the main technical skills required to land a software engineering position in any IT company. This course equips you with the required technical skills to design and develop high-quality object-oriented software systems using the C# programming language. The course focuses on the C# programming language since it is one of the most used programming languages in the industry. With the C# programing language, you can create a wide range of software systems including Console applications, Windows desktop applications, mobile apps, TV apps, web applications, game programming, etc."
+    }
+]
